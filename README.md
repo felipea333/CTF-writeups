@@ -1,6 +1,6 @@
 # CTF Writeups
 
-Writeups de máquinas y CTFs resueltos, enfocados en pentesting y ethical hacking. Cada carpeta documenta la metodología completa: reconocimiento, explotación y escalada de privilegios.
+Writeups de máquinas, CTFs y auditorías de seguridad resueltas, enfocados en pentesting y ethical hacking. Cada carpeta documenta la metodología completa: reconocimiento, explotación y escalada de privilegios.
 
 ## Sobre mí
 
@@ -8,14 +8,15 @@ Aspirante a Pentester en búsqueda de prácticas / primera oportunidad como anal
 
 📫 [LinkedIn](https://www.linkedin.com/in/luis-felipe-arana-guerra-a06315334)
 
-## Máquinas resueltas
+## Proyectos destacados
 
-| Máquina | Plataforma | Técnicas clave | Writeup |
+| Proyecto | Tipo | Técnicas clave | Writeup |
 |---|---|---|---|
-| Operación Pescador | The Hackers Labs | User enumeration oracle, RCE vía upload, PATH Hijacking | [Ver writeup](./Operacion-Pescador/README.md) |
+| Auditoría Red Corporativa | Trabajo Final Master D — 2 servidores interconectados | FTP anónimo, SQLi, reutilización de credenciales, MS17-010, Pass-the-Hash | [Ver writeup](./Auditoria-Red-Corporativa-MasterD/README.md) |
+| Operación Pescador | The Hackers Labs (CTF) | User enumeration oracle, RCE vía upload, PATH Hijacking | [Ver writeup](./Operacion-Pescador/README.md) |
 
-*(Este índice se irá actualizando con cada nueva máquina resuelta)*
+*(Este índice se irá actualizando con cada nuevo proyecto/máquina resuelta)*
 
 ## Herramientas habituales
 
-`Nmap` · `Gobuster` · `ffuf` · `Hydra` · `sqlmap` · `WPScan` · `evil-winrm` · `NetExec` · `John the Ripper` · `hashcat` · `Metasploit`
+`Nmap` · `Gobuster` · `ffuf` · `Hydra` · `sqlmap` · `WPScan` · `Metasploit` · `evil-winrm` · `NetExec` · `John the Ripper` · `hashcat`
