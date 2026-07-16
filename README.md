@@ -13,4 +13,4 @@ Aspirante a Pentester en búsqueda de prácticas / primera oportunidad como anal
 | Castor | The Hackers Labs (CTF) | XXE (XML External Entity), LFI, fuerza bruta SSH, GTFOBins (`sed`) | [Ver writeup](./Castor/README.md) |
 *(Este índice se irá actualizando con cada nuevo proyecto/máquina resuelta)*
 ## Herramientas habituales
-`Nmap` · `Gobuster` · `ffuf` · `Hydra` · `sqlmap` · `WPScan` · `Metasploit` · `evil-winrm` · `NetExec` · `John the Ripper` · `hashcat`
+`Nmap` · `Gobuster` · `ffuf` · `Hydra` · `sqlmap` · `WPScan` · `Metasploit` · `evil-winrm` · `NetExec` · `John the Ripper` · `hashcat` ·  `burp suite`
