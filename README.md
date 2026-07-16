@@ -10,6 +10,7 @@ Aspirante a Pentester en búsqueda de prácticas / primera oportunidad como anal
 | Operación Pescador | The Hackers Labs (CTF) | User enumeration oracle, RCE vía upload, PATH Hijacking | [Ver writeup](./Operacion-Pescador/README.md) |
 | Sedition | The Hackers Labs (CTF) | SMB anónimo, cracking ZIP/MD5, MariaDB, GTFOBins (sed) | [Ver writeup](./Sedition/README.md) |
 | Banco | The Hackers Labs (CTF) | LFI / Path Traversal, credenciales filtradas, bypass de `chattr +i`, SUID hijacking | [Ver writeup](./Banco/README.md) |
+| Castor | The Hackers Labs (CTF) | XXE (XML External Entity), LFI, fuerza bruta SSH, GTFOBins (`sed`) | [Ver writeup](./Castor/README.md) |
 *(Este índice se irá actualizando con cada nuevo proyecto/máquina resuelta)*
 ## Herramientas habituales
 `Nmap` · `Gobuster` · `ffuf` · `Hydra` · `sqlmap` · `WPScan` · `Metasploit` · `evil-winrm` · `NetExec` · `John the Ripper` · `hashcat`
